@@ -21,11 +21,9 @@ This repository contains various projects and learning materials related to part
 - **Format:** Jupyter Notebook
 - **Description:** Complete analysis of LHCb open data, focusing on CP violation in $B^{\pm} \to K^{\pm} K^{\pm} K^{\mp}$ decays.
 - **Features:**
-  - Data loading and preselection from real LHCb data
   - Invariant mass calculation and plotting
   - Global and local CP asymmetry analysis
   - Statistical significance evaluation
-  - Complete Python implementation of the original LHCb Open Data Portal project
 
 ## 🎯 Purpose
 
