@@ -19,7 +19,7 @@ This repository contains various projects and learning materials related to part
 ### 3. [LHCb_Open_Data_Project.ipynb](LHCb_Open_Data_Project.ipynb)
 **LHCb Experiment Analysis: CP Violation Study**
 - **Format:** Jupyter Notebook
-- **Description:** Complete analysis of LHCb open data, focusing on CP violation in B⁺ → K⁺K⁺K⁻ decays.
+- **Description:** Complete analysis of LHCb open data, focusing on CP violation in $B^{\pm} \to K^{\pm} K^{\pm} K^{\mp}$ decays.
 - **Features:**
   - Data loading and preselection from real LHCb data
   - Invariant mass calculation and plotting
