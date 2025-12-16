@@ -12,7 +12,6 @@ This repository contains various projects and learning materials related to part
 
 ### 2. [OpenDataWithMATLAB/](OpenDataWithMATLAB/)
 **CMS & ATLAS Open Data Analysis with MATLAB**
-- **Year:** 2024
 - **Description:** MATLAB scripts adapted from CMS and ATLAS Open Data projects.
 - **Purpose:** Learning experimental analysis fundamentals using MATLAB, a familiar computational environment, while exploring real LHC data from both general-purpose detectors.
 
